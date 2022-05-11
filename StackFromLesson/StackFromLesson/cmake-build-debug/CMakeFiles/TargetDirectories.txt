@@ -1,0 +1,3 @@
+D:/юбиле/StackFromLesson/StackFromLesson/StackFromLesson/cmake-build-debug/CMakeFiles/StackFromLesson.dir
+D:/юбиле/StackFromLesson/StackFromLesson/StackFromLesson/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/юбиле/StackFromLesson/StackFromLesson/StackFromLesson/cmake-build-debug/CMakeFiles/rebuild_cache.dir

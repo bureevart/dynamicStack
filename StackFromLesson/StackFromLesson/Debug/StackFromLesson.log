@@ -1,0 +1,4 @@
+﻿  StackFromLesson.cpp
+C:\Users\User\source\repos\StackFromLesson\StackFromLesson\StackFromLesson.cpp(98,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\User\source\repos\StackFromLesson\StackFromLesson\StackFromLesson.cpp(99,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  StackFromLesson.vcxproj -> C:\Users\User\source\repos\StackFromLesson\Debug\StackFromLesson.exe
